@@ -1,4 +1,4 @@
-```md
+
 # 💸 EazeMoney - Modern Banking Web App
 
 EazeMoney is a secure, full-stack banking web application built for seamless financial transactions. With a clean UI and powerful backend, it allows users to deposit, withdraw, transfer funds, and view spending insights in real-time.
@@ -102,4 +102,4 @@ This project is licensed under the **MIT License**.
 
 **Sanyog 😊**  
 GitHub: [Sanyog Tripathi](https://github.com/sanyog29).   
-```
+
