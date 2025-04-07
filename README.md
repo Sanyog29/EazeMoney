@@ -101,5 +101,5 @@ This project is licensed under the **MIT License**.
 ## 🙋‍♂️ Author
 
 **Sanyog 😊**  
-GitHub: [Sanyog Tripathi](https://github.com/sanyog29)   
+GitHub: [Sanyog Tripathi](https://github.com/sanyog29).   
 ```
